@@ -1,6 +1,6 @@
 ## TECNOLOGIAS UTILIZADAS
 
-- Javascript
+- JavaScript
 - TypeScript
 - Express
 - Nodemon
